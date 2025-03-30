@@ -6,7 +6,7 @@
 ### Datos Personales
 
 Hola , Mi nombre es Juan Manuel Castex tengo 31 años y vivo en moron. ya hace 2 años me anote en la tecnicatura en programacion pero recien voy por la mitad jaja
-
+![Logo UNAHUR](./yo.jpg)
 
 
 ### Otra Información
